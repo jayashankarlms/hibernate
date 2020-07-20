@@ -1,0 +1,11 @@
+1.open mysql downloads page and install mysql installer
+2.Three software will be installed, connector, .net,and other one.
+3.After open mysqlInstallerUpdater and select mysql server from the tree and add it.
+Now the server will be turned on
+4.In this step give the user name and password, port no, if you wish to change.
+5.download mysqlworkbench which supports 32bit OS and install it.
+Then in workbench add the added server-refer guru99
+
+
+refer javatpoint steps for installation
+refer guru99 for installation for workbench
